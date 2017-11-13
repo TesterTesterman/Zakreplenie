@@ -1,1 +1,4 @@
-# Zakreplenie
+# Zakreple
+if brutalna progremm
+   Loding
+
